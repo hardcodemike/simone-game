@@ -1,6 +1,6 @@
 {
-  "name": "Stencil Starter",
-  "short_name": "Stencil",
+  "name": "Simon game EBI",
+  "short_name": "SGEBI",
   "start_url": "/",
   "display": "standalone",
   "icons": [{
@@ -8,6 +8,10 @@
     "sizes": "512x512",
     "type": "image/png"
   }],
-  "background_color": "#16161d",
-  "theme_color": "#16161d"
+  "background_color": "blue",
+  "theme_color": "red",
+  "orientation": "portrait",
+  "related_applications": [{
+    "platform": "Web"
+  }]
 }
